@@ -53,9 +53,20 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/> -->
+
+<p> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
+  <p align="center">
+    <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj421&show_icons=true&count_private=true&theme=tokyonight" height="175px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj421&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rituraj421" height="175px"/>
+  <br/>
+  </p>
+</p>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -66,8 +77,6 @@
    <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a>
   <br/>
 </p><br/>
-
-<a href="https://github.com/rituraj421/github-readme-activity-graph"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
