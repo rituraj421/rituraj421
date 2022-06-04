@@ -61,6 +61,11 @@
 
 <br/>
 <br/>
+  <summary><b>⚡ Recent GitHub Activity </b></summary>
+  <br/>
+   <a href="https://github.com/Hemang417"><img alt="Hemang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hemang417&theme=react-dark" alt="Hemang417"</a>
+  <br/>
+</p><br/>
 
 <a href="https://github.com/rituraj421/github-readme-activity-graph"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
