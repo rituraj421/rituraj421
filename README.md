@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: He/His
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rituraj421)**
+- 👨‍💻 All of my projects are available at **[My-Portfolio](https://rituraj421)**
 
 - 📫 How to reach me **riturajroj1234@gmail.com**
 
