@@ -54,7 +54,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj421&show_icons=true&count_private=true&theme=tokyonight" height="175px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj421&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rituraj421" height="175px"/>
+	  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj421&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rituraj421" height="175px"/> -->
   <br/>
   </p>
 </p>
@@ -66,7 +66,7 @@
   <br/>
 </p><br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 <br/>
