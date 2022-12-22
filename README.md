@@ -14,8 +14,6 @@
 
 - 😄 Pronouns: He/His
 
-- 👨‍💻 All of my projects are available at **[My-Portfolio](https://rituraj421)**
-
 - 📫 How to reach me **riturajroj1234@gmail.com**
 
 
@@ -66,11 +64,11 @@
   <br/>
 </p><br/>
 
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
-<!-- <br/>
+<br/>
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
    <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a>
@@ -78,7 +76,7 @@
 </p><br/>
 
 <br/>
-<br/> -->
+<br/>
 
 ## Connect with me:
 <p align="left">
@@ -88,5 +86,3 @@
 <a href = "https://www.instagram.com/digichiki3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-<!-- ## ❤ Views and Followers -->
