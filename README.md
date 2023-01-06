@@ -52,16 +52,16 @@
   <br/>
   <p align="center">
     <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj421&show_icons=true&count_private=true&theme=tokyonight" height="175px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj421&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rituraj421" height="175px"/>
+<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj421&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rituraj421" height="175px"/> -->
   <br/>
   </p>
 </p>
 
 <br/>
 <br/>
-  <summary><b>⚡ Recent GitHub Activity </b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
-   <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a>
+   <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a> -->
   <br/>
 </p><br/>
 
