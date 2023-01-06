@@ -57,16 +57,6 @@
   </p>
 </p>
 
-<!-- <p>
-  <summary><b>⚡ Recent GitHub Activity </b></summary>
-  <br/>
-   <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a>
-  <br/>
-</p><br/> -->
-
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-
 <br/>
 <br/>
   <summary><b>⚡ Recent GitHub Activity </b></summary>
