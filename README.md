@@ -8,14 +8,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about python or any tech-related stuff
+- 💬 Ask me about Java or any tech-related stuff
 
 <!-- - 📫 How to reach me: Twitter - @digichiki3 , Instagram - @digichiki3 -->
 
-- 😄 Pronouns: He/His
-
 - 📫 How to reach me **riturajroj1234@gmail.com**
-
 
 
 ## 🚀 Languages and Tools:
